@@ -1,0 +1,11 @@
+---
+layout: post
+title: 怎样使用GitHub发表博客呢
+---
+
+h1. {{ page.title }}
+
+p(meta). 2 March 2011 - Romeo
+
+第一次学习使用Github发表博客，大家凑合着看吧。以后决定在这上面发些技术方面的文章了。
+
